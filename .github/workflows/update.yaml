@@ -1,5 +1,6 @@
 name: achievement-collector
 
+
 on:
   schedule:
     - cron: '*/6 * * * *'
